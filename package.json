@@ -2,7 +2,7 @@
   "name": "zoe-resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zoewang7512.github.io/zoe-resume",
+  "homepage": "https://zoewang7512.github.io/Zoe-Resume/",
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
     "@emotion/react": "^11.11.4",
