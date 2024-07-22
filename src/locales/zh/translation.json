@@ -1,0 +1,28 @@
+{
+  "home": "首頁",
+  "about": "關於我",
+  "projects": "作品集",
+  "contact": "聯絡我",
+  "homePage": {
+    "title": "嗨! 我是 Zoe Wang",
+    "subTitle": "一名充滿熱情的 <1><2>前端工程師</2></1>，目前住在台灣台中市。"
+  },
+  "aboutPage": {
+    "text": "身為初階前端工程師，熟悉 JavaScript、HTML、CSS 及 API 串接，擅長使用前端框架 React 進行實作，具有獨立規劃網頁版面和切版的能力。期待通過編寫簡潔、優化的程式碼，設計出提供流暢使用者體驗且易於維護的響應式網站。<1/>曾任職務包含維修及管理百台 3D 列印機，培訓及管理維修部門，並帶領過 3 人研發團隊，使用 Arduino 及 Fusion 360 來研發產品，並根據客戶需求與回饋協助產品優化。"
+  },
+  "projectsPage": {
+    "project1Title": "貳零貳壹 加拿大遊記",
+    "project1Text": "本網站是一個專門用於記錄2021年11月至2022年3月在美加旅遊的各項花費和行程的平台。",
+    "project2Title": "3D列印機設備管理面板",
+    "project2Text": "一個用來管理多台3DP列印機的網站，而且可以依照現場機器狀況來規劃生產計劃表，查看與監測每日列印機機況，及紀錄列印機維修狀況。",
+    "project3Title": "Letiv | 電子商務網站UI",
+    "project3Text": "使用 React JS，TailsindCSS 以及 Fake Store API 來獲取產品數據的響應式電子商務網站 UI"
+  },
+
+  "contactPage": {
+    "line1": "對我製作的專案有任何疑問嗎？",
+    "line2": "我很樂意與您分享與討論，",
+    "line3": "請透過電子郵件或使用表格與我聯繫。",
+    "locationText": "台中, 台灣"
+  }
+}
