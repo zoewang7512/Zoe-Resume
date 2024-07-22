@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/zoe-resume/static/css/main.a85bb21f.css",
-    "main.js": "/zoe-resume/static/js/main.c7b6c5c1.js",
-    "static/media/letiv-demo.gif": "/zoe-resume/static/media/letiv-demo.524d45156905bedfe95b.gif",
-    "static/media/ca-demo.gif": "/zoe-resume/static/media/ca-demo.097b21804c2c6d6722bc.gif",
-    "static/media/3dp-demo.gif": "/zoe-resume/static/media/3dp-demo.7d742ce3b0fb21258545.gif",
-    "static/media/Zoe.svg": "/zoe-resume/static/media/Zoe.3996d56f77e049a0dc6192a0f825df10.svg",
-    "static/media/letiv-demo.png": "/zoe-resume/static/media/letiv-demo.e939bf4d92b721d4a1a6.png",
-    "static/media/3dp-demo.svg": "/zoe-resume/static/media/3dp-demo.924144472080675a0277132a586366ca.svg",
-    "static/media/ca-demo.svg": "/zoe-resume/static/media/ca-demo.aa8fb482e4b6a61865177610d81af416.svg",
-    "static/media/avatar.svg": "/zoe-resume/static/media/avatar.788461391db7a22ac3e1b3ef06e127e8.svg",
-    "static/media/avatar-white.svg": "/zoe-resume/static/media/avatar-white.e790c7bd4765f9a62584775d60425398.svg",
-    "static/media/ReactIcon.svg": "/zoe-resume/static/media/ReactIcon.9235e8f8e2b73d394801330aba87511f.svg",
-    "index.html": "/zoe-resume/index.html",
-    "static/media/JavascriptIcon.svg": "/zoe-resume/static/media/JavascriptIcon.fabe1e9b193a5b86c7467a70ba5d736a.svg",
-    "static/media/MuiIcon.svg": "/zoe-resume/static/media/MuiIcon.8c7f838ab9442b7a7828ef9c28f50934.svg",
-    "static/media/TailwindIcon.svg": "/zoe-resume/static/media/TailwindIcon.973c73e85d4daa24b257ba20298716c4.svg",
-    "static/media/FirebaseIcon.svg": "/zoe-resume/static/media/FirebaseIcon.c0c7ecb042c29a25f438e174520e6143.svg",
-    "static/media/CssIcon.svg": "/zoe-resume/static/media/CssIcon.db7dfd1247623e1e9223d8ef28a37432.svg",
-    "static/media/Html5Icon.svg": "/zoe-resume/static/media/Html5Icon.a026abbb678246d70ee9b70e4aee972c.svg",
-    "main.a85bb21f.css.map": "/zoe-resume/static/css/main.a85bb21f.css.map",
-    "main.c7b6c5c1.js.map": "/zoe-resume/static/js/main.c7b6c5c1.js.map"
+    "main.css": "/Zoe-Resume/static/css/main.a85bb21f.css",
+    "main.js": "/Zoe-Resume/static/js/main.af3f9672.js",
+    "static/media/letiv-demo.gif": "/Zoe-Resume/static/media/letiv-demo.524d45156905bedfe95b.gif",
+    "static/media/ca-demo.gif": "/Zoe-Resume/static/media/ca-demo.097b21804c2c6d6722bc.gif",
+    "static/media/3dp-demo.gif": "/Zoe-Resume/static/media/3dp-demo.7d742ce3b0fb21258545.gif",
+    "static/media/Zoe.svg": "/Zoe-Resume/static/media/Zoe.3996d56f77e049a0dc6192a0f825df10.svg",
+    "static/media/letiv-demo.png": "/Zoe-Resume/static/media/letiv-demo.e939bf4d92b721d4a1a6.png",
+    "static/media/3dp-demo.svg": "/Zoe-Resume/static/media/3dp-demo.924144472080675a0277132a586366ca.svg",
+    "static/media/ca-demo.svg": "/Zoe-Resume/static/media/ca-demo.aa8fb482e4b6a61865177610d81af416.svg",
+    "static/media/avatar.svg": "/Zoe-Resume/static/media/avatar.788461391db7a22ac3e1b3ef06e127e8.svg",
+    "static/media/avatar-white.svg": "/Zoe-Resume/static/media/avatar-white.e790c7bd4765f9a62584775d60425398.svg",
+    "static/media/ReactIcon.svg": "/Zoe-Resume/static/media/ReactIcon.9235e8f8e2b73d394801330aba87511f.svg",
+    "index.html": "/Zoe-Resume/index.html",
+    "static/media/JavascriptIcon.svg": "/Zoe-Resume/static/media/JavascriptIcon.fabe1e9b193a5b86c7467a70ba5d736a.svg",
+    "static/media/MuiIcon.svg": "/Zoe-Resume/static/media/MuiIcon.8c7f838ab9442b7a7828ef9c28f50934.svg",
+    "static/media/TailwindIcon.svg": "/Zoe-Resume/static/media/TailwindIcon.973c73e85d4daa24b257ba20298716c4.svg",
+    "static/media/FirebaseIcon.svg": "/Zoe-Resume/static/media/FirebaseIcon.c0c7ecb042c29a25f438e174520e6143.svg",
+    "static/media/CssIcon.svg": "/Zoe-Resume/static/media/CssIcon.db7dfd1247623e1e9223d8ef28a37432.svg",
+    "static/media/Html5Icon.svg": "/Zoe-Resume/static/media/Html5Icon.a026abbb678246d70ee9b70e4aee972c.svg",
+    "main.a85bb21f.css.map": "/Zoe-Resume/static/css/main.a85bb21f.css.map",
+    "main.af3f9672.js.map": "/Zoe-Resume/static/js/main.af3f9672.js.map"
   },
   "entrypoints": [
     "static/css/main.a85bb21f.css",
-    "static/js/main.c7b6c5c1.js"
+    "static/js/main.af3f9672.js"
   ]
 }
