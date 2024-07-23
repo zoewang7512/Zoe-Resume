@@ -8,7 +8,7 @@ A Responsive Portfolio Website Using React and Material-UI.
 
 ## 畫面截圖
 
-<img src="images/zoe-personal-portfolio.gif" width="600" height="388"> 
+<img src="images/zoe-personal-portfolio.gif" width="600" > 
 
 ## 安裝
 
@@ -19,13 +19,13 @@ Node.js 版本建議為：`v20.11.1` 以上...
 ### 取得專案
 
 ```bash
-git clone https://github.com/zoewang7512/2021-Canada-Travelogue.git
+git clone https://github.com/zoewang7512/zoe-personal-portfolio.git
 ```
 
 ### 移動到專案內
 
 ```bash
-cd 2021-Canada-Travelogue
+cd zoe-personal-portfolio
 ```
 
 ### 安裝套件
@@ -49,7 +49,6 @@ npm run deploy
 
 - Node.js v20.11.1
 - react v18.3.1
-- react-dom v18.3.1
 - mui/material v5.15.19
 - i18next v23.11.5
 - gh-pages v6.1.1
