@@ -1,8 +1,6 @@
-# Zoe-Resume
+# zoe-personal-portfolio
 
-改名字叫做 zoe-portfolio-website
-vCard is a fully responsive personal portfolio website, responsive for all devices.
-Responsive Portfolio Website Using HTML, CSS & JavaScript
+A Responsive Portfolio Website Using React and Material-UI.
 
 ## 試用 Demo
 
