@@ -6,15 +6,9 @@ A Responsive Portfolio Website Using React and Material-UI.
 
 請點擊連結 [https://zoewang7512.github.io/zoe-personal-portfolio/](https://zoewang7512.github.io/zoe-personal-portfolio/) 試用 demo
 
-
 ## 畫面截圖
 
-<img src="images/zoe-personal-portfolio.gif"> 
-
-| | | 
-|:-------------------------:|:-------------------------:|
-|<img src="images/zoe-personal-portfolio.gif" alt="screenshot1" width="500" height="279"> |  <img src="images/screenshot2.png" alt="screenshot2" width="500" height="279"> |
-
+<img src="images/zoe-personal-portfolio.gif" width="600" height="388"> 
 
 ## 安裝
 
