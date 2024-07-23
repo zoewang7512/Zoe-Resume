@@ -8,7 +8,7 @@ A Responsive Portfolio Website Using React and Material-UI.
 
 ## 畫面截圖
 
-<img src="images/zoe-personal-portfolio.gif" width="600" > 
+<img src="images/zoe-personal-portfolio.mp4"  > 
 
 ## 安裝
 
