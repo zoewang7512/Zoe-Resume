@@ -4,14 +4,16 @@ A Responsive Portfolio Website Using React and Material-UI.
 
 ## 試用 Demo
 
-請點擊連結 [https://zoewang7512.github.io/2021-Canada-Travelogue/](https://zoewang7512.github.io/2021-Canada-Travelogue/) 試用 demo
+請點擊連結 [https://zoewang7512.github.io/zoe-personal-portfolio/](https://zoewang7512.github.io/zoe-personal-portfolio/) 試用 demo
 
 
 ## 畫面截圖
 
+<img src="images/zoe-personal-portfolio.gif"> 
+
 | | | 
 |:-------------------------:|:-------------------------:|
-|<img src="images/screenshot1.png" alt="screenshot1" width="500" height="279"> |  <img src="images/screenshot2.png" alt="screenshot2" width="500" height="279"> |
+|<img src="images/zoe-personal-portfolio.gif" alt="screenshot1" width="500" height="279"> |  <img src="images/screenshot2.png" alt="screenshot2" width="500" height="279"> |
 
 
 ## 安裝
@@ -52,10 +54,10 @@ npm run deploy
 ## 專案技術
 
 - Node.js v20.11.1
-- react v18.2.0
-- react-router-dom v6.22.3
-- @mui/material v5.15.15
-- i18next v1.7.2
-
+- react v18.3.1
+- react-dom v18.3.1
+- mui/material v5.15.19
+- i18next v23.11.5
 - gh-pages v6.1.1
+- emailjs/browser v4.3.3
 
