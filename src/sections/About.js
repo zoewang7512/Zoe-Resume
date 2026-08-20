@@ -51,7 +51,7 @@ const About = ({ mode }) => {
           />
 
           <Card
-            sx={{ height: "100%", width: { xs: 420, md: 540 } }}
+            sx={{ height: "100%", width: { xs: 420, md: 560 } }}
             elevation={0}
           >
             <CardContent>
@@ -64,7 +64,12 @@ const About = ({ mode }) => {
                 ABOUT ME
               </Typography>
 
-              <Typography variant="body2" color="text.secondary" mb={2}>
+              <Typography
+                variant="body2"
+                color="text.secondary"
+                // align="justify"
+                mb={2}
+              >
                 <Trans
                   i18nKey={text}
                   components={{

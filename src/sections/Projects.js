@@ -19,6 +19,7 @@ import dpDemoSvg from "../assets/3dp-demo.svg";
 import dpDemoGif from "../assets/3dp-demo.gif";
 import letivDemoPng from "../assets/letiv-demo.png";
 import letivDemoGif from "../assets/letiv-demo.gif";
+import dreamDemoPng from "../assets/ai-dream-journal-demo.png";
 
 const Projects = () => {
   const [imageCa, setImageCa] = useState(caDemoSvg);
@@ -33,6 +34,8 @@ const Projects = () => {
     project2Text,
     project3Title,
     project3Text,
+    project4Title,
+    project4Text,
   } = t("projectsPage");
 
   // 2021 Canada Travelogue
@@ -61,7 +64,17 @@ const Projects = () => {
     { key: 2, label: "fetch api" },
     { key: 3, label: "tailwind css" },
     { key: 4, label: "react icons" },
-    { key: 4, label: "skeleton loading" },
+    { key: 5, label: "skeleton loading" },
+  ];
+
+  //ai-dream-journal
+  const chipProject4Data = [
+    { key: 0, label: "react" },
+    { key: 1, label: "typescript" },
+    { key: 2, label: "node.js" },
+    { key: 3, label: "express" },
+    { key: 4, label: "pollinations.ai" },
+    { key: 5, label: "google gemini api" },
   ];
 
   const ProductsCard = ({ title, text, chipData, codeLink, liveLink }) => {
@@ -153,6 +166,33 @@ const Projects = () => {
           maxWidth: 900,
         }}
       >
+        {/**ai-dream-journal*/}
+        <Stack
+          direction={{ xs: "column", sm: "row" }}
+          spacing={{ xs: 1, sm: 2, md: 4 }}
+          justifyContent="center"
+          alignItems="center"
+          mb={4}
+        >
+          <ProductsCard
+            title={project4Title}
+            text={project4Text}
+            chipData={chipProject4Data}
+            codeLink={"https://github.com/zoewang7512/ai-dream-journal"}
+            liveLink={"https://ai-dream-journal-eta.vercel.app/"}
+          />
+          <Box
+            component="img"
+            src={dreamDemoPng}
+            alt="ai-dream-journal-demo"
+            sx={{
+              p: 1,
+              height: { xs: 197, md: 280 },
+              width: { xs: 350, md: 497 },
+            }}
+          />
+        </Stack>
+
         {/**2021 Canada Travelogue*/}
         <Stack
           direction={{ xs: "column", sm: "row" }}

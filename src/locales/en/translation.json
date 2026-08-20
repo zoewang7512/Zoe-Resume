@@ -8,24 +8,22 @@
     "subTitle": "A passionate <1><2> Front End Developer</2> </1> based in Tachung, Taiwan."
   },
   "aboutPage": {
-    "text": "As a junior front-end engineer, I am familiar with JavaScript, HTML, CSS, and API integration, and I excel at using React for implementation. I can independently plan and design web page layouts. I look forward to designing responsive websites that offer a smooth user experience and are easy to maintain by writing clean, optimized code.<1/>In previous roles, I have maintained and managed hundreds of 3D printing machines, trained and managed the maintenance department, led a 3-person R&D team to develop products using Arduino and Fusion 360, and assisted in product optimization based on customer needs and feedback."
+    "text": "A front-end engineer with nearly two years of experience building B2B SaaS products, specializing in React (TypeScript) and architecture design. Experienced in end-to-end delivery — from complex front-end data flows (WebSocket/SSE), CI/CD deployment, and automated testing, to integrating AI applications with Node.js. I actively bring AI tools into my daily workflow, boosting delivery speed by 40% through AI-assisted refactoring and testing. <1/> <1/> A collaborative team player who enjoys sharpening system design skills through code reviews and technical sharing, and who looks forward to growing further and creating core value within a product-driven team."
   },
   "projectsPage": {
     "project1Title": "2021 Canada Travelogue",
     "project1Text": "A website to track travel costs and itineraries from November 2021 to March 2022 in the United States and Canada.",
     "project2Title": "3D Printer Dashboard",
-    "project2Text": "A website for managing 3DP printers and planning production schedules, monitoring daily printer conditions and registering printer maintenance records.",
+    "project2Text": "A website for managing multiple 3D printers that lets you plan production schedules based on real-time machine status, monitor daily printer conditions, and log printer maintenance records.",
     "project3Title": "Letiv | An Ecommerce App UI",
-    "project3Text": "A responsive ecommerce App UI using React JS and TailsindCSS  with Using Fake Store API to Get Products Data"
+    "project3Text": "A responsive ecommerce App UI using React JS and TailsindCSS with Using Fake Store API to Get Products Data",
+    "project4Title": "AI Dream Journal",
+    "project4Text": "A personal journaling app powered by generative AI. Built with React 18 and Node.js, it uses a proxy server to integrate Gemini and Pollinations.ai for mood analysis and illustration generation."
   },
   "contactPage": {
     "line1": "Any questions about something I've built? ",
     "line2": "I'd love to hear from you.",
     "line3": "Use the form if you'd like to get in contact with me.",
     "locationText": "Taichung, Taiwan"
-  },
-  "description": {
-    "line1": "They have a big lunch and a small dinner.",
-    "line2": "Your first week of<1> {{channel}} </1> classes is on us."
   }
 }
