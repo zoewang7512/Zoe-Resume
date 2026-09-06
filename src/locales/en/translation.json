@@ -8,7 +8,7 @@
     "subTitle": "A passionate <1><2> Front End Developer</2> </1> based in Tachung, Taiwan."
   },
   "aboutPage": {
-    "text": "A front-end engineer with nearly two years of experience building B2B SaaS products, specializing in React (TypeScript) and architecture design. Experienced in end-to-end delivery — from complex front-end data flows (WebSocket/SSE), CI/CD deployment, and automated testing, to integrating AI applications with Node.js. I actively bring AI tools into my daily workflow, boosting delivery speed by 40% through AI-assisted refactoring and testing. <1/> <1/> A collaborative team player who enjoys sharpening system design skills through code reviews and technical sharing, and who looks forward to growing further and creating core value within a product-driven team."
+    "text": "Frontend Engineer with nearly two years of experience developing B2B SaaS platforms, specializing in the React ecosystem (TypeScript) and Next.js frontend architecture. Proficient in managing complex data streams via WebSocket/SSE, and integrating Node.js with Supabase to implement Row Level Security (RLS) boundaries on the backend. Dedicated to ensuring high system quality and scalability by incorporating Vitest/Playwright automated testing, CI/CD pipelines, and rigorous AI-assisted development workflows into daily delivery.<br /><br />A strong advocate for team collaboration, actively engaging in code reviews, technical sharing, and documentation to continuously elevate system design and software engineering standards. Eager to join a tech- or product-driven team to leverage my expertise and drive impactful value."
   },
   "projectsPage": {
     "project1Title": "2021 Canada Travelogue",
@@ -18,7 +18,9 @@
     "project3Title": "Letiv | An Ecommerce App UI",
     "project3Text": "A responsive ecommerce App UI using React JS and TailsindCSS with Using Fake Store API to Get Products Data",
     "project4Title": "AI Dream Journal",
-    "project4Text": "A personal journaling app powered by generative AI. Built with React 18 and Node.js, it uses a proxy server to integrate Gemini and Pollinations.ai for mood analysis and illustration generation."
+    "project4Text": "A personal journaling app powered by generative AI. Built with React 18 and Node.js, it uses a proxy server to integrate Gemini and Pollinations.ai for mood analysis and illustration generation.",
+    "project5Title": "Pro5 | A Barbershop Appointment System",
+    "project5Text": "A registration-free booking system for small barbershops: featuring real-time customer reservations on the frontend and autonomous stylist management on the backend, achieving zero developer maintenance."
   },
   "contactPage": {
     "line1": "Any questions about something I've built? ",

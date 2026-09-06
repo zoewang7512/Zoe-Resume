@@ -8,7 +8,7 @@
     "subTitle": "一名充滿熱情的 <1><2>前端工程師</2></1>，目前住在台灣台中市。"
   },
   "aboutPage": {
-    "text": "具備近兩年 B2B SaaS 開發經驗的前端工程師，專精 React (TypeScript) 與架構設計。具備從前端複雜資料流 (WebSocket/SSE)、CI/CD 部署、自動化測試，到 Node.js 串接 AI 應用的全案交付能力。日常將 AI 工具深度導入工作流，透過輔助重構與測試成功提升 40% 交付速率。 <br/> <br/> 具有團隊協作精神，樂於透過 Code Review 與技術分享精進系統設計能力，期望於產品型團隊中持續累積經驗並創造核心價值。"
+    "text": "具備近兩年 B2B SaaS 平台開發經驗的前端工程師，專精 React 生態系 (TypeScript) 與Next.js前端架構設計。具備從前端處理WebSocket/SSE 複雜資料流，到後端整合Node.js 與 Supabase 實作 RLS 安全邊界的能力。將 Vitest/Playwright 自動化測試、CI/CD 部署，以及嚴謹的 AI 協作開發工作融入日常交付，確保系統的高品質與擴展性。<br/><br />重視團隊協作，樂於透過 Code Review、技術分享與文件沉澱，持續精進系統設計與軟體工程能力，期望加入技術或產品導向團隊，發揮專長並創造價值。 "
   },
   "projectsPage": {
     "project1Title": "貳零貳壹 加拿大遊記",
@@ -18,7 +18,9 @@
     "project3Title": "Letiv | 電子商務網站UI",
     "project3Text": "使用 React JS，TailsindCSS 以及 Fake Store API 來獲取產品數據的響應式電子商務網站 UI",
     "project4Title": "AI 夢境日記",
-    "project4Text": "一款結合生成式 AI 的個人紀錄應用。使用 React 18 + Node.js 開發。透過建立代理伺服器串接 Gemini 與 Pollinations.ai 實作情緒分析與插圖生成。"
+    "project4Text": "一款結合生成式 AI 的個人紀錄應用。使用 React 18 + Node.js 開發。透過建立代理伺服器串接 Gemini 與 Pollinations.ai 實作情緒分析與插圖生成。",
+    "project5Title": "普洛午理髮廳 | 理髮廳線上預約系統",
+    "project5Text": "專為小型理髮廳打造的免註冊預約系統：顧客前台即時下訂，設計師後台自主管理訂單與營業資訊，達成零工程維護。"
   },
 
   "contactPage": {

@@ -20,6 +20,7 @@ import dpDemoGif from "../assets/3dp-demo.gif";
 import letivDemoPng from "../assets/letiv-demo.png";
 import letivDemoGif from "../assets/letiv-demo.gif";
 import dreamDemoPng from "../assets/ai-dream-journal-demo.png";
+import pro5DemoPng from "../assets/pro5-demo.png";
 
 const Projects = () => {
   const [imageCa, setImageCa] = useState(caDemoSvg);
@@ -36,6 +37,8 @@ const Projects = () => {
     project3Text,
     project4Title,
     project4Text,
+    project5Title,
+    project5Text,
   } = t("projectsPage");
 
   // 2021 Canada Travelogue
@@ -75,6 +78,18 @@ const Projects = () => {
     { key: 3, label: "express" },
     { key: 4, label: "pollinations.ai" },
     { key: 5, label: "google gemini api" },
+  ];
+
+  //pro5
+  //ai-dream-journal
+  const chipProject5Data = [
+    { key: 0, label: "react" },
+    { key: 1, label: "typescript" },
+    { key: 2, label: "next.js" },
+    { key: 3, label: "Supabase postgres" },
+    { key: 4, label: "resend" },
+    { key: 5, label: "vercel" },
+    { key: 5, label: "vitest" },
   ];
 
   const ProductsCard = ({ title, text, chipData, codeLink, liveLink }) => {
@@ -166,6 +181,33 @@ const Projects = () => {
           maxWidth: 900,
         }}
       >
+        {/*pro5*/}
+        <Stack
+          direction={{ xs: "column", sm: "row" }}
+          spacing={{ xs: 1, sm: 2, md: 4 }}
+          justifyContent="center"
+          alignItems="center"
+          mb={4}
+        >
+          <Box
+            component="img"
+            src={pro5DemoPng}
+            alt="pro5-demo"
+            sx={{
+              p: 1,
+              height: { xs: 197, md: 280 },
+              width: { xs: 350, md: 497 },
+            }}
+          />
+          <ProductsCard
+            title={project5Title}
+            text={project5Text}
+            chipData={chipProject5Data}
+            codeLink={"https://github.com/zoewang7512/pro5"}
+            liveLink={"https://pro5-nu.vercel.app/"}
+          />
+        </Stack>
+
         {/**ai-dream-journal*/}
         <Stack
           direction={{ xs: "column", sm: "row" }}
